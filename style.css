@@ -4,13 +4,10 @@ body {
 	text-align: center;
 	font-family: Arial;
 }
-nav {
-	background-color: black;
-}
 nav ul {
 	
 	list-style:none;
-	background-color: black;
+	background-color: #191919;
 	margin: none;
 	padding: none;
 	text-align: center;
