@@ -23,16 +23,16 @@ body {
 #nav ul li { min-width: 13.75%; float: left; margin-left: 3%; 
 }
 #nav ul li:after {
-	content:'\002F';}
-#nav ul li.current a, #nav ul li a:hover { color: #fff; }
+	content:'\002F';
+}
+#nav ul li.current a, #nav ul li a:hover {
+	color: #fff;
+}
 #nav ul li a { 
 	color: #ccc;
 	font-size: 0.875em;
 	font-weight: 300;
 	margin-right: 12px;
-}
-#nav ul li a img {
-	margin-right: 3%;
 }
 div {
     display: block;
