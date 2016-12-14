@@ -20,7 +20,7 @@ nav ul li {
 	padding: 10px;
 	text-align: center;
 }
-active {
+.active {
 	background-color: #161616;
 	color: white;
 }
