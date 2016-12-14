@@ -6,6 +6,8 @@ body {
 	color: #333;
 	font: 1.125em/1.5 "adobe-caslon-pro-1", "adobe-caslon-pro-2", "Times New Roman", Georgia, serif;
 	text-align: center;
+}
+.writing {
 	margin-left: 30%;
 	margin-right: 30%;
 }
