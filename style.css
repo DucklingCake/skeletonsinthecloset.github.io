@@ -1,11 +1,6 @@
 body {
- 	background: url(http://i.cubeupload.com/TnaHrz.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-  	background-color: #161616;
-  	color: white;
+  	background-color: black;
+  	color: #dddddd;
 	text-align: center;
 	font-family: Arial;
 }
@@ -24,4 +19,8 @@ nav ul li {
 	display: inline-block;
 	padding: 10px;
 	text-align: center;
+}
+active {
+	background-color: :161616;
+	color: white;
 }
