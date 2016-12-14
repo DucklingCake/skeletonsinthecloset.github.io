@@ -11,10 +11,9 @@ nav a {
 	text-decoration: none;
 }
 body {
-  	background-color: black;
-  	color: #dddddd;
-	text-align: center;
-	font-family: Arial;
+    background: #F1F1EF;
+    color: #333;
+    font: 1.125em/1.5 "adobe-caslon-pro-1", "adobe-caslon-pro-2", "Times New Roman", Georgia, serif;
 }
 nav ul {
 	
@@ -36,4 +35,7 @@ nav ul li {
     text-transform: uppercase;
     margin-top: -.625em;
     padding-top: .75em;
+}
+div {
+    display: block;
 }
