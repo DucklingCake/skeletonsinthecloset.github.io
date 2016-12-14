@@ -15,27 +15,33 @@ body {
     color: #333;
     font: 1.125em/1.5 "adobe-caslon-pro-1", "adobe-caslon-pro-2", "Times New Roman", Georgia, serif;
 }
-nav ul {
-	
-	list-style:none;
-	background-color: #303030;
-	margin: none;
-	padding: none;
-	text-align: center;
+#nav {  
+	width: 100%; 
+	height: 1.75em; /* 28px/16px */
+	background: #333; 
+	text-transform: uppercase;
+	margin-top: -.625em; /* -10px/16px */
+	padding-top: .75em;
 }
-nav ul li {
-	display: inline-block;
-	padding: 50px;
-	text-align: center;
+#nav ul { 
+	width: 400px; 
+	margin: .375em auto; 
+	color: #ccc; 
+	font: .875em "museo-sans-rounded-1", "museo-sans-rounded-2", sans-serif; /* 14px/16px */
 }
-#nav {
-    width: 100%;
-    height: 1.75em;
-    background: #333;
-    text-transform: uppercase;
-    margin-top: -.625em;
-    padding-top: .75em;
+#nav ul li { min-width: 13.75%; float: left; margin-left: 3%; 
 }
+#nav ul li:after { content:'\002F'; }
+#nav ul li.twitter:after { content: ''; }
+#nav ul li.current a, #nav ul li a:hover { color: #fff; }
+#nav ul li.twitter { width: 30%; margin-right: 0; }
+#nav ul li a { 
+	color: #ccc;
+	font-size: 0.875em; /* 14px/16px */
+	font-weight: 300;
+	margin-right: 12px;
+}
+#nav ul li a img { margin-right: 3%; }
 div {
     display: block;
 }
