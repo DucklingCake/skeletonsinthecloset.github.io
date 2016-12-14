@@ -4,6 +4,9 @@ body {
     text-align: center;
     font-family: Arial;
 }
+nav {
+	background-color: black;
+}
 nav ul {
 	
 	list-style:none;
