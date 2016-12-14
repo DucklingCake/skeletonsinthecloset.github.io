@@ -1,3 +1,15 @@
+nav a:link {
+    color: white;
+}
+nav a:visited {
+    color: white;
+}
+nav a:hover {
+    color: #d9d9d9;
+}
+nav a:active {
+
+}
 body {
   	background-color: black;
   	color: #dddddd;
