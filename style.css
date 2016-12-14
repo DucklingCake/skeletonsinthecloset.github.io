@@ -18,11 +18,15 @@ body {
 	width: 400px; 
 	margin: .375em auto; 
 	color: #ccc; 
-	font: .875em "museo-sans-rounded-1", "museo-sans-rounded-2", sans-serif; /* 14px/16px */
+	font: .875em "museo-sans-rounded-1", "museo-sans-rounded-2", sans-serif;
 }
-#nav ul li { min-width: 13.75%; float: left; margin-left: 3%; 
+#nav ul li {
+	min-width: 13.75%; float: left; margin-left: 3%; 
 }
 #nav ul li:after {
+	content:'-';
+}
+#nav ul li:before {
 	content:'-';
 }
 #nav ul li.current a, #nav ul li a:hover {
