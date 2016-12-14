@@ -1,9 +1,6 @@
 a {
 	text-decoration: none;
 }
-a:hover { 
-    background-color: yellow;
-}
 body {
     background: #eaeaea;
     color: #333;
