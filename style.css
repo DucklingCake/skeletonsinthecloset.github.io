@@ -13,10 +13,10 @@ nav ul {
 	background-color: black;
 	margin: none;
 	padding: none;
-	text-align: left
+	text-align: justify;
 }
 nav ul li {
 	display: inline-block;
-	padding: 30px;
-	text-align: left
+	padding: 10px;
+	text-align: justify;
 }
