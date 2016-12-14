@@ -23,12 +23,6 @@ body {
 #nav ul li {
 	min-width: 13.75%; float: left; margin-left: 3%; 
 }
-#nav ul li:after {
-	content:'-';
-}
-#nav ul li:before {
-	content:'-';
-}
 #nav ul li.current a, #nav ul li a:hover {
 	color: #fff;
 }
