@@ -1,8 +1,5 @@
 body {
     background-image: url("http://i.cubeupload.com/TnaHrz.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     background-color: #161616;
     color: white;
