@@ -2,9 +2,10 @@ a {
 	text-decoration: none;
 }
 body {
-    background: #eaeaea;
-    color: #333;
-    font: 1.125em/1.5 "adobe-caslon-pro-1", "adobe-caslon-pro-2", "Times New Roman", Georgia, serif;
+    	background: #eaeaea;
+	color: #333;
+	font: 1.125em/1.5 "adobe-caslon-pro-1", "adobe-caslon-pro-2", "Times New Roman", Georgia, serif;
+	text-align: center;
 }
 #nav {  
 	width: 100%; 
@@ -36,5 +37,5 @@ body {
 	margin-right: 12px;
 }
 div {
-    display: block;
+	display: block;
 }
