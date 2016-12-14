@@ -7,7 +7,7 @@ body {
 nav ul {
 	
 	list-style:none;
-	background-color: #191919;
+	background-color: #303030;
 	margin: none;
 	padding: none;
 	text-align: center;
@@ -18,6 +18,6 @@ nav ul li {
 	text-align: center;
 }
 .active {
-	background-color: #161616;
+	background-color: #191919;
 	color: white;
 }
