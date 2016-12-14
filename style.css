@@ -1,5 +1,5 @@
 body {
-    background-color: #2d2d2d;
+    background-color: #212121;
     color: white;
     text-align: center;
     font-family: arial;
@@ -9,9 +9,10 @@ nav ul {
 	list-style:none;
 	background-color: black;
 	text-align: center;
+	margin: none;
+	padding: none;
 }
 nav ul li {
-	font-family: impact;
 	display: inline-block;
 	padding: 30px;
 	text-align: center;
