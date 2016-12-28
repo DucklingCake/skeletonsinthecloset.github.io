@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Futura-PT";
+    font-family: Futura-PT;
     src: url('sansation_light.woff');
 }
 @font-face {
@@ -13,12 +13,12 @@ a {
 body {
     	background: #1A1A1A;
 	color: #D5D5D5;
-	font: 1.125em/1.5 Europa, "Europa", Arial;
+	font-family: "Europa", Arial;
 	text-align: center;
 }
 h3 {
 	color: #FFFFFF;
-	font: 3.em Furura PT, "Futura-PT", Arial;
+	font: Furura PT;
 }
 .writing {
 	margin-left: 30%;
