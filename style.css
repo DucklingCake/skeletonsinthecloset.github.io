@@ -17,6 +17,7 @@ h2 {
 	text-align: center;
 	width: 50%;
 	height: 50%;
+	margin: auto;
 }
 #nav {
 	display: block;
