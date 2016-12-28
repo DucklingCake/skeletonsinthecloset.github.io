@@ -17,9 +17,6 @@ h2 {
 	width: 430px;
 	text-align: center;
 	margin: auto;
-	height: 400px;
-	display: flex;
-	align-items: center; 
 }
 /* NAVIGATION */
 nav {
