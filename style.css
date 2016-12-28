@@ -1,10 +1,10 @@
 @font-face {
-    font-family: Futura-PT;
-    src: url(sansation_light.woff);
+    font-family: Oswald;
+    src: url(https://fonts.googleapis.com/css?family=Oswald);
 }
 @font-face {
-    font-family: "Europa";
-    src: url('https://typekit.com/fonts/europa');
+    font-family: Lato;
+    src: url(https://fonts.googleapis.com/css?family=Lato);
 }
 a {
 	text-decoration: none;
@@ -13,12 +13,12 @@ a {
 body {
     	background: #1A1A1A;
 	color: #D5D5D5;
-	font-family: "Europa", Arial;
+	font-family: Lato;
 	text-align: center;
 }
 h3 {
 	color: #FFFFFF;
-	font-family: Futura-PT;
+	font-family: Oswald;
 }
 .writing {
 	margin-left: 30%;
