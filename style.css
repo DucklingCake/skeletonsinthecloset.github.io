@@ -1,10 +1,18 @@
+@font-face {
+    font-family: "Futura-PT";
+    src: url('https://typekit.com/fonts/futura-pt');
+}
+@font-face {
+    font-family: "Europa";
+    src: url('https://typekit.com/fonts/europa');
+}
 a {
 	text-decoration: none;
 }
 body {
     	background: #eaeaea;
 	color: #333;
-	font: 1.125em/1.5 "adobe-caslon-pro-1", "adobe-caslon-pro-2", "Times New Roman", Georgia, serif;
+	font: 1.125em/1.5 "Europa";
 	text-align: center;
 }
 .writing {
