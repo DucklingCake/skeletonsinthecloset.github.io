@@ -12,9 +12,12 @@ a {
 }
 body {
     	background: #1A1A1A;
-	color: #333;
+	color: #D5D5D5;
 	font: 1.125em/1.5 "Europa";
 	text-align: center;
+}
+h1 {
+	color: white;
 }
 .writing {
 	margin-left: 30%;
