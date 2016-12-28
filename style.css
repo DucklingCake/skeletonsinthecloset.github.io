@@ -24,6 +24,8 @@ h2, h1 {
 #white {
 	background: white;
 	color: #1A1A1A;
+	width: 1000px;
+	padding: 20px;
 }
 /* NAVIGATION */
 nav {
