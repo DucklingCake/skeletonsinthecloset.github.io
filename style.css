@@ -8,6 +8,7 @@ body {
 	font-family: 'Lato', sans-serif;
 	text-align: justify;
 	font-size: 110%;
+	text-align: center;
 }
 h2 {
 	color: #FFFFFF;
@@ -15,7 +16,6 @@ h2 {
 }
 #center {
 	width: 430px;
-	text-align: center;
 	margin: auto;
 	position: relative
 }
