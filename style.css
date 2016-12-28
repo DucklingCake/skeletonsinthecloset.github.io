@@ -9,9 +9,11 @@ body {
 	text-align: justify;
 	font-size: 110%;
 	text-align: center;
-	width: 800px;
 	margin: auto;
 	position: relative
+}
+p {
+	width: 800px;
 }
 h2, h1 {
 	color: #FFFFFF;
@@ -25,7 +27,6 @@ h2, h1 {
 #white {
 	background: white;
 	color: #1A1A1A;
-	width: auto;
 }
 /* NAVIGATION */
 nav {
