@@ -25,6 +25,7 @@ h2, h1 {
 #white {
 	background: white;
 	color: #1A1A1A;
+	width: auto;
 }
 /* NAVIGATION */
 nav {
