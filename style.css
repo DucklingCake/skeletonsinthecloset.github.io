@@ -16,8 +16,9 @@ body {
 	font: 1.125em/1.5 Europa, "Europa", Arial;
 	text-align: center;
 }
-h1 {
-	color: white;
+h3 {
+	color: #FFFFFF;
+	font: 3.em Furura PT, "Futura-PT", Arial;
 }
 .writing {
 	margin-left: 30%;
