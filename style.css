@@ -18,9 +18,9 @@ h2 {
 	width: 50%;
 	height: 50%;
 	margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #nav {
 	display: block;
