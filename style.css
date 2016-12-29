@@ -10,7 +10,7 @@ body {
 	font-size: 110%;
 	text-align: center;
 	margin: auto;
-	position: relative
+	position: relative;
 }
 h2, h1 {
 	color: #FFFFFF;
@@ -19,7 +19,7 @@ h2, h1 {
 #center {
 	width: 430px;
 	margin: auto;
-	position: relative
+	position: relative;
 }
 #white {
 	background: white;
@@ -28,7 +28,7 @@ h2, h1 {
 	padding: 10px;
 	margin: auto;
 	position: relative;
-	text-align: center;
+	text-align: justify;
 }
 /* NAVIGATION */
 nav {
