@@ -20,6 +20,8 @@ h2, h1 {
 	width: 430px;
 	margin: auto;
 	position: relative;
+	display: flex;
+	align-items: center;
 }
 #white {
 	background: white;
