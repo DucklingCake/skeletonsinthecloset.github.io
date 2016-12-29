@@ -19,11 +19,8 @@ h2, h1 {
 #center {
 	width: 430px;
 	margin: auto;
-	position: relative;
-}
-span {
-  display: table-cell;
-  vertical-align: middle;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
 }
 #white {
 	background: white;
