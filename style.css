@@ -19,7 +19,7 @@ h2, h1 {
 #center {
 	width: 430px;
 	margin: auto;
-	position: absolute;
+	position: relative;
 }
 #white {
 	background: white;
