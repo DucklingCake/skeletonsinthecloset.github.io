@@ -21,6 +21,10 @@ h2, h1 {
 	margin: auto;
 	position: relative;
 }
+span {
+  display: table-cell;
+  vertical-align: middle;
+}
 #white {
 	background: white;
 	color: #1A1A1A;
