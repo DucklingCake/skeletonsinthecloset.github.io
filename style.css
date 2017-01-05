@@ -16,25 +16,10 @@ h2, h1 {
 	color: #FFFFFF;
 	font-family: 'Montserrat', sans-serif;
 }
-#centerbox {
-	position: relative;
-}
 #center {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	height: 30%;
-	width: 50%;
-	margin: -15% 0 0 -25%;
-}
-#white {
-	background: white;
-	color: #1A1A1A;
-	width: 1000px;
-	padding: 10px;
-	margin: auto;
-	position: relative;
-	text-align: justify;
+  	width: 430px;
+  	margin: auto;
+  	position: relative;
 }
 /* NAVIGATION */
 nav {
