@@ -17,6 +17,8 @@ h2, h1 {
 	font-family: 'Montserrat', sans-serif;
 }
 #center {
+	padding-top: 1000px;
+	padding-bottom: 1000px;
   	width: 430px;
   	margin: auto;
   	position: relative;
