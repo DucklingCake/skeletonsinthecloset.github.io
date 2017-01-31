@@ -34,7 +34,7 @@ h3, h2, h1 {
 	width: 80%;
 	height: 100%;
 	color: #1A1A1A;
-	
+	margin: 0 auto;
 }
 #body p {
 	padding: 20px;
