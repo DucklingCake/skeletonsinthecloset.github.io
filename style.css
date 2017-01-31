@@ -36,6 +36,7 @@ h3, h2, h1 {
 /* NAVIGATION */
 center nav {
 	width: auto;
+	margin: 0;
 }
 nav {
 	display: block;
