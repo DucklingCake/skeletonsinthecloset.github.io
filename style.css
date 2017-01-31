@@ -37,6 +37,9 @@ h3, h2, h1 {
 	color: #1A1A1A;
 	
 }
+#body p {
+	padding: 20px;
+}
 /* NAVIGATION */
 nav {
 	display: block;
