@@ -23,7 +23,7 @@ h3, h2, h1 {
   	width: 430px;
   	margin: auto;
   	position: relative;
-	vertical-align: middle;
+	padding: 70px 0;
 }
 #header {
     	background: #1A1A1A;
