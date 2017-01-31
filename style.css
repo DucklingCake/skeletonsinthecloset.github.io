@@ -37,6 +37,7 @@ h3, h2, h1 {
 center nav {
 	width: auto;
 	margin: 0;
+	position: static;
 }
 nav {
 	display: block;
