@@ -25,6 +25,13 @@ h3, h2, h1 {
   	position: relative;
 	padding: 70px 0;
 }
+#center p {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
 #header {
     	background: #1A1A1A;
 	width: 100%;
