@@ -22,6 +22,15 @@ h3, h2, h1 {
   	position: relative;
 	vertical-align: middle;
 }
+#header {
+    	background: #1A1A1A;
+	width: 100%;
+}
+#body {
+	background: white;
+	padding: 20px;
+	width: 100%;
+}
 /* NAVIGATION */
 nav {
 	display: block;
