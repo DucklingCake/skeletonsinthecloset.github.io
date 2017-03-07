@@ -1,26 +1,12 @@
 html,body {
 	height:100%;
 }
-a {
-	text-decoration: none;
-	font-weight: bold;
-}
 body {
 	font-family: 'Lato', sans-serif;
 	font-size: 110%;
 }
 h3, h2, h1 {
 	font-family: 'Montserrat', sans-serif;
-}
-#header {
-	width: 100%;
-}
-#body {
-	background: white;
-	width: 80%;
-	height: 100%;
-	color: #1A1A1A;
-	margin: 0 auto;
 }
 /* NAVIGATION */
 center nav {
@@ -41,6 +27,7 @@ nav {
 a:link, a:visited, a:hover, a:active {
 	color: white;
 	text-decoration: none;
+	font-weight: bold;
 } 
 nav ul {
 	list-style:none;
