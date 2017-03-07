@@ -9,15 +9,9 @@ h3, h2, h1 {
 	font-family: 'Courgette', sans-serif;
 }
 /* NAVIGATION */
-center nav {
-	width: auto;
-	margin: 0;
-	position: static;
-}
 nav {
 	display: block;
 	font-weight: bold;
-	color: white;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 80%;
@@ -31,7 +25,6 @@ a:link, a:visited, a:hover, a:active {
 } 
 nav ul {
 	list-style:none;
-	text-align: center;
 	margin-left: 230px;
 	margin-right: 230px;
 }
@@ -40,5 +33,4 @@ nav ul li {
 	padding: 10px;
 	padding-left: 50;
 	padding-right: 50;
-	text-align: center;
 }
