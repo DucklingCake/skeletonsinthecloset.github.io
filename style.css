@@ -20,8 +20,6 @@ nav {
 }
 nav ul {
 	list-style:none;
-	margin-left: 230px;
-	margin-right: 230px;
 }
 nav ul li {
 	display: inline-block;
