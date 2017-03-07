@@ -19,7 +19,6 @@ nav {
 	text-align: center;
 }
 a:link, a:visited, a:hover, a:active {
-	color: white;
 	text-decoration: none;
 	font-weight: bold;
 } 
