@@ -1,29 +1,19 @@
 html,body {
 	height:100%;
+    	background: #FB4A3D;
 }
 a {
 	text-decoration: none;
 	font-weight: bold;
 }
 body {
-    	background: #1A1A1A;
-	color: #D5D5D5;
 	font-family: 'Lato', sans-serif;
-	text-align: justify;
 	font-size: 110%;
-	text-align: center;
 }
 h3, h2, h1 {
-	color: #FFFFFF;
 	font-family: 'Montserrat', sans-serif;
 }
-#center {
-  	width: 430px;
-  	margin: auto;
-  	position: relative;
-}
 #header {
-    	background: #FB4A3D;
 	width: 100%;
 }
 #body {
@@ -52,9 +42,6 @@ nav {
 a {
 	text-decoration: none;
 }
-nav a:link, nav a:visited, nav a:hover, nav a:active {
-	color: white;
-}
 nav ul {
 	list-style:none;
 	text-align: center;
@@ -64,10 +51,8 @@ nav ul {
 nav ul li {
 	
 	display: inline-block;
-	background-color: #1A1A1A;
 	padding: 10px;
 	padding-left: 50;
 	padding-right: 50;
 	text-align: center;
-	border-radius: 10px;
 }
