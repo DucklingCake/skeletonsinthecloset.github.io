@@ -23,7 +23,7 @@ h3, h2, h1 {
   	position: relative;
 }
 #header {
-    	background: #1A1A1A;
+    	background: #FB4A3D;
 	width: 100%;
 }
 #body {
@@ -57,8 +57,6 @@ nav a:link, nav a:visited, nav a:hover, nav a:active {
 }
 nav ul {
 	list-style:none;
-	background-color: #1A1A1A;
-	padding: 10px;
 	text-align: center;
 	margin-left: 230px;
 	margin-right: 230px;
