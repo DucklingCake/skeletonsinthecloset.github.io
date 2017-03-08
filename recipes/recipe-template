@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>The Cherry on Top</title>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<link  rel="icon" href="favicon.png" type="image/png">
+</head>
+<nav> 
+	<ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="about.html">About</a></li>
+	    	<li><a href="recipes.html">Recipes</a></li>
+	    	<li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<body>
+		<img src="https://raw.githubusercontent.com/DucklingCake/thecherryontop.github.io/master/photos/recipe1.jpg" height="200" width="200">
+		<h1>Recipe Title</h1>
+    <p>Recipe Info</p>
+		<p style="float:left">ingredients<br />ingredient1<br />ingredient2<br />ingredient3<br />ingredient4<br />ingredient5</p>
+    <p style="float:right">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed elementum massa. Donec quis libero vitae neque aliquam fermentum. Cras sit amet enim est. Pellentesque tellus nulla, ornare non nisi quis, porttitor maximus eros. Sed eu erat luctus, rutrum ligula vitae, interdum turpis. Nunc eu dictum leo. Curabitur at mi est. Duis orci enim, congue a pulvinar nec, facilisis eget massa. Vestibulum auctor mauris sed dolor lobortis sagittis a sit amet ipsum.
+Morbi pharetra ipsum ultricies semper imperdiet. Suspendisse rutrum ligula est, posuere ornare mi tempus at. Vestibulum pulvinar nisi nec rutrum lacinia. Cras ante sem, blandit id sagittis vitae, venenatis vitae justo. Pellentesque semper convallis enim at laoreet. Maecenas faucibus venenatis lectus at dignissim. Aliquam commodo pharetra neque at bibendum. Aenean id velit libero. Sed dignissim placerat ipsum id semper. Ut nec gravida velit, ut semper diam. Integer sed pulvinar elit, sit amet dictum elit. Nulla laoreet, enim sit amet luctus scelerisque, dolor felis dapibus nibh, at viverra risus ex sit amet dolor.
+Sed egestas malesuada lacus, eget sagittis nulla pellentesque sit amet. Nullam purus felis, luctus vitae tincidunt quis, tristique vel nisi. Integer nec ultrices sem. Mauris non mollis ipsum, ac convallis leo. Aliquam cursus, mauris eu auctor gravida, magna metus condimentum orci, id porttitor urna orci vel ipsum. Nam at vestibulum nulla, sed gravida felis. Duis sed libero fringilla purus congue lobortis malesuada vel nisl. Etiam placerat viverra ex, et vestibulum nulla pellentesque eu. Cras mi est, ornare ac viverra vel, aliquam a dolor. Quisque laoreet luctus nisl nec sodales. Nullam ultricies, nunc in porta bibendum, neque libero consequat arcu, ut egestas diam eros nec orci.
+Morbi mauris sem, laoreet vel auctor id, tincidunt nec lacus. Duis vel neque vulputate, placerat magna non, semper lorem. Aliquam sit amet lorem vulputate, pellentesque sapien in, fringilla purus. Phasellus tincidunt viverra lorem, sed efficitur tellus molestie in. Donec nec turpis posuere dolor accumsan rutrum ut sed sapien. Curabitur mattis tortor eget eros eleifend, nec dignissim enim tristique. Nulla ac neque vel ipsum consectetur dapibus non non urna. Maecenas condimentum elit ac augue eleifend, et convallis enim finibus.
+Cras ut pulvinar nisl. Integer pretium est vitae tortor tristique tristique. Sed vitae felis nec risus vestibulum faucibus nec et risus. Nullam vestibulum ante eu consectetur euismod. Duis mattis volutpat ante, hendrerit gravida turpis imperdiet vitae. Curabitur non rutrum tellus, eget finibus tortor. Nunc feugiat purus vitae ipsum lacinia convallis. Proin erat nisl, tempor in velit ac, feugiat mattis felis. In eget bibendum lectus.
+  </div>
+</body>
+</html>
