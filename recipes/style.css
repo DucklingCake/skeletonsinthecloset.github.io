@@ -9,6 +9,7 @@ body {
 	background-color: #EB5645;
 	width: 80%;
 	height: 80%;
+	margin: auto;
 }
 h3, h2, h1 {
 	font-family: 'Courgette', sans-serif;
