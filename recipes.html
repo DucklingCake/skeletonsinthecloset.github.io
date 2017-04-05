@@ -40,16 +40,14 @@ td {
 div.row img {
   float: left;
 }
-@media screen and (min-width: 480px) {
-	table  { display: block; 
-		margin-left:auto; 
-		margin-right:auto; }
-	table  td {display: inline-block; }
-}
 table {
     	margin-left:auto; 
     	margin-right:auto;
+	display: block; 
+	margin-left:auto; 
+	margin-right:auto;
 }
+table  td {display: inline-block; }
 </style>
 <head>
 	<title>The Cherry on Top</title>
@@ -68,33 +66,35 @@ table {
 </nav>
 <body>
 		<h1 style="text-align:center">Recipes</h1> 
+<center>
 <table>
 	<tr>
 		<td>
-	<div class="container">
-  	<img src="recipe1.jpg" class="image">
-  	<div class="overlay">
-    	<div class="text">Recipe 1</div>
-  	</div>
-	</div>
+			<div class="container">
+  			<img src="recipe1.jpg" class="image">
+  			<div class="overlay">
+    			<div class="text">Recipe 1</div>
+  			</div>
+			</div>
 		</td>
 		<td>
-	<div class="container">
-  	<img src="recipe2.jpg" class="image">
-  	<div class="overlay">
-    	<div class="text">Recipe 2</div>
-  	</div>
-	</div>
+			<div class="container">
+  			<img src="recipe2.jpg" class="image">
+  			<div class="overlay">
+  		  	<div class="text">Recipe 2</div>
+  			</div>
+			</div>
 		</td>
 		<td>
-	<div class="container">
-  	<img src="recipe3.jpg" class="image">
-  	<div class="overlay">
-    	<div class="text">Recipe 3</div>
-  	</div>
-	</div>
+			<div class="container">
+ 		 	<img src="recipe3.jpg" class="image">
+ 		 	<div class="overlay">
+ 		   	<div class="text">Recipe 3</div>
+  			</div>
+			</div>
 		</td>
 	</tr>
 </table>
+</center>
 </body>
 </html>
