@@ -7,7 +7,7 @@ html {
 	font-size: 110%;
 }
 span {
-	max-width: 400px;
+	margin: 30px;
 }
 #recipe {
 	padding: 10px;
