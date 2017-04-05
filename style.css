@@ -27,6 +27,8 @@ nav ul li {
 	padding: 10px;
 	padding-left: 50;
 	padding-right: 50;
+	margin-top: 0px;
+	margin-bottom: 50px;
 	color: #1B1B1B;	
 	text-decoration: none;
 }
