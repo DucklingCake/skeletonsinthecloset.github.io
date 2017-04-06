@@ -25,6 +25,7 @@ td {
 	min-width: 180px;
 	display: inline-block;
 }
+table {display: block;}
 /* NAVIGATION */
 nav {
 	display: block;
