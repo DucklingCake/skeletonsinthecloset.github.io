@@ -24,6 +24,9 @@ td {
 	vertical-align: top;
 	min-width: 180px;
 }
+table {
+	display: block;
+}
 /* NAVIGATION */
 nav {
 	display: block;
