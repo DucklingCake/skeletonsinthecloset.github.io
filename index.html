@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <style>
-img {
-	float: left;
-	padding: 20px;
-}
-span {
-	float: right;
-}
+.slide {display:none;}
+#text {
+	font-size: 20px;
+	position: absolute;
+	margin: 50px;
+  	text-align: center;
 </style>
 <head>
 	<title>The Cherry on Top</title>
@@ -25,12 +24,28 @@ span {
 	</ul>
 </nav>
 <body>
-	<div id="box">
-	<div id="text" style="background-color:#EB5645;color:white;padding:20px">
-		<img src="https://raw.githubusercontent.com/DucklingCake/thecherryontop.github.io/master/favicon.png" height="308" width="349">
-		<h1>The Cherry on Top</h1>
-		<p>The Cherry on Top is your go to website for all desserts and everything sweet. We provide recipes of everything from complex but delicate french macaroons to simple, classic shortbread cookies. New and exciting recipes are uploaded weekly.</p>
+<body>
+	<div class="w3-content w3-section">
+		<div id="text">The Cherry On Top</div>
+		<img class="slide" src="img_la.jpg" style="width:100%">
+		<img class="slide" src="img_ny.jpg" style="width:100%">
+		<img class="slide" src="img_chicago.jpg" style="width:100%">
 	</div>
-	</div>
+	<p>The Cherry on Top is your go to website for all desserts and everything sweet. We provide recipes of everything from complex but delicate french macaroons to simple, classic shortbread cookies. New and exciting recipes are uploaded weekly.</p>
+	<script>
+	var index = 0;
+	carousel();
+	function carousel() {
+		var i;
+  		var x = document.getElementsByClassName("slide");
+ 		for (i = 0; i < x.length; i++) {
+ 			x[i].style.display = "none";  
+			}
+	    	index++;
+	  	if (index > x.length) {index = 1}    
+    		x[index-1].style.display = "block";  
+    		setTimeout(carousel, 4000); // Change image every 2 seconds
+		}
+	</script>
 </body>
 </html>
