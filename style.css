@@ -1,4 +1,4 @@
-html,body {
+* {
 	height:100%;
 	width:100%;
 }
@@ -10,14 +10,8 @@ body {
 h3, h2, h1 {
 	font-family: 'Courgette', sans-serif;
 }
-#text {
-	max-width: 845px;
-	margin: auto;
-	text-align: justify;
-}
-#box {
-	width: 100%;
-	background-color: #EB5645;
+h1 {
+	font-size: 5em;
 }
 /* NAVIGATION */
 nav {
