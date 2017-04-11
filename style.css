@@ -9,6 +9,7 @@ body {
 }
 h3, h2, h1 {
 	font-family: 'Courgette', sans-serif;
+	text-align: center;
 }
 h1 {
 	font-size: 5em;
