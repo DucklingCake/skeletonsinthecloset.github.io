@@ -25,9 +25,11 @@ nav {
 	text-align: center;
 	position: fixed;
 	background-color: white;
+    	z-index: 1;
 }
 nav ul {
 	list-style:none;
+	margin:auto;
 }
 nav ul li {
 	display: inline-block;
