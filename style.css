@@ -16,23 +16,20 @@ h1 {
 }
 /* NAVIGATION */
 nav {
-	display: block;
-	font-weight: bold;
 	text-transform: uppercase;
 	font-size: 80%;
-	font-family: 'Raleway', sans-serif;
 	text-align: center;
 	position: fixed;
 	background-color: white;
     	z-index: 1;
 	width: 100%;
-	margin-top: 0px;
+	margin-top: -60px;
 }
 nav ul {
 	list-style: none;
 	margin:auto;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 nav ul li {
 	display: inline-block;
