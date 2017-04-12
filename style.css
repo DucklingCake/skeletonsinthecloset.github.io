@@ -23,6 +23,8 @@ nav {
 	font-size: 80%;
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
+	position: fixed;
+	background-color: white;
 }
 nav ul {
 	list-style:none;
