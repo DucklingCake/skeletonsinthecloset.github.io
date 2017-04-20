@@ -9,6 +9,8 @@ body {
 }
 h3, h2, h1 {
 	font-family: 'Courgette', sans-serif;
+}
+h1 {
 	text-align: center;
 }
 .about {
