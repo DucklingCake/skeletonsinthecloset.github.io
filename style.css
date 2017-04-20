@@ -11,6 +11,18 @@ h3, h2, h1 {
 	font-family: 'Courgette', sans-serif;
 	text-align: center;
 }
+.about {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+span img {
+	float: left;
+}
+.left {
+	float: right;
+}
 /* NAVIGATION */
 nav {
 	text-transform: uppercase;
@@ -33,7 +45,6 @@ nav ul li {
 	display: inline-block;
 	padding: 10px;
 	text-decoration: none;
-	z-index: 2;
 }
 a:link, a:visited, a:active {
 	text-decoration: none;
