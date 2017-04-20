@@ -17,6 +17,9 @@ h3, h2, h1 {
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
+table img {
+	border-radius: 50%;
+}
 /* NAVIGATION */
 nav {
 	text-transform: uppercase;
