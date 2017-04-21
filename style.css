@@ -56,3 +56,28 @@ nav a:link, nav a:visited, nav a:active {
 nav a:hover {
 	text-decoration: underline;
 }
+/* BUTTON */
+.button {
+    	border: none;
+    	color: white;
+    	padding: 15px 25px;
+    	text-align: center;
+    	text-decoration: none;
+    	display: inline-block;
+    	font-size: 16px;
+    	margin: 4px 2px;
+    	-webkit-transition-duration: 0.4s;
+    	transition-duration: 0.4s;
+    	cursor: pointer;
+    	border-radius: 5px;
+}
+.button {
+    	background-color: white; 
+    	color: black; 
+    	border: 2px solid #008CBA;
+}
+
+.button:hover {
+    	background-color: #008CBA;
+    	color: white;
+}
