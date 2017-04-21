@@ -18,6 +18,7 @@ h1 {
 	padding-right: 100px;
 	padding-top: 50px;
 	padding-bottom: 50px;
+	max-width: 1000px;
 }
 table img {
 	border-radius: 50%;
