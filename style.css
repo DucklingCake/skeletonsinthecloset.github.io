@@ -28,6 +28,7 @@ td {
 }
 #center {
 	margin: auto;
+	width: 280px;
 }
 /* NAVIGATION */
 nav {
