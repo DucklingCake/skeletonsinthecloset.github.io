@@ -25,9 +25,6 @@ table img {
 td {
 	padding: 15px
 }
-td a {
-	color: blue;
-}
 /* NAVIGATION */
 nav {
 	text-transform: uppercase;
@@ -51,10 +48,10 @@ nav ul li {
 	padding: 10px;
 	text-decoration: none;
 }
-a:link, a:visited, a:active {
+nav a:link, nav a:visited, nav a:active {
 	text-decoration: none;
 	color: white;
 }
-a:hover {
+nav a:hover {
 	text-decoration: underline;
 }
