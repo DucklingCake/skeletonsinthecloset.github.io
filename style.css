@@ -70,6 +70,7 @@ nav a:hover {
     	transition-duration: 0.4s;
     	cursor: pointer;
     	border-radius: 5px;
+	margin: auto;
 }
 .button {
     	background-color: white; 
