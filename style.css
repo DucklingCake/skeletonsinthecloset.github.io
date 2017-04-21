@@ -68,7 +68,7 @@ nav a:hover {
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-size: 120%;
   padding: 20px;
   width: 280px;
   transition: all 0.5s;
