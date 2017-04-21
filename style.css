@@ -26,6 +26,9 @@ table img {
 td {
 	padding: 15px
 }
+#center {
+	margin: auto;
+}
 /* NAVIGATION */
 nav {
 	text-transform: uppercase;
